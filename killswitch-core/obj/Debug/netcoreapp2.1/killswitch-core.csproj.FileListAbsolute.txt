@@ -1,0 +1,11 @@
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\bin\Debug\netcoreapp2.1\killswitch-core.deps.json
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\bin\Debug\netcoreapp2.1\killswitch-core.runtimeconfig.json
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\bin\Debug\netcoreapp2.1\killswitch-core.runtimeconfig.dev.json
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\bin\Debug\netcoreapp2.1\killswitch-core.dll
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\bin\Debug\netcoreapp2.1\killswitch-core.pdb
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\obj\Debug\netcoreapp2.1\killswitch-core.csprojAssemblyReference.cache
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\obj\Debug\netcoreapp2.1\killswitch-core.csproj.CoreCompileInputs.cache
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\obj\Debug\netcoreapp2.1\killswitch-core.AssemblyInfoInputs.cache
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\obj\Debug\netcoreapp2.1\killswitch-core.AssemblyInfo.cs
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\obj\Debug\netcoreapp2.1\killswitch-core.dll
+C:\Users\zer0\source\repos\killswitch-core\killswitch-core\obj\Debug\netcoreapp2.1\killswitch-core.pdb
